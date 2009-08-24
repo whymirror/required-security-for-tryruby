@@ -1,0 +1,7 @@
+This will probably end up being a submodule to tryruby.
+
+The purpose of this repo is to have a pubic place for where the xen create script and selinux policy is stored for try ruby.
+
+Being that try ruby is essentially an ajax front to the ruby interpretor, it is clear as day that special care must be taken to ensure that the ruby interpretor used by try ruby has very strict access on the server.
+
+
