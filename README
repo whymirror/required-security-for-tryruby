@@ -1,7 +1,8 @@
-This will probably end up being a submodule to tryruby.
+This repo is turning out to be unnecessary.
+I have a security method that will sanitize user input for try ruby. imagine that.
 
-The purpose of this repo is to have a pubic place for where the xen create script and selinux policy is stored for try ruby.
+I will probably make one real commit here. After that commit, you can expect this to go stale.
 
-Being that try ruby is essentially an ajax front to the ruby interpretor, it is clear as day that special care must be taken to ensure that the ruby interpretor used by try ruby has very strict access on the server.
+* TryRuby, however will remain an active project. *
 
 
